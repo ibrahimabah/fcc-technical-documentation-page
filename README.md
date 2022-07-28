@@ -14,7 +14,7 @@ Build an app that is functionally similar to [Technical Documentation Page](http
 6. The `.main-section` elements should contain at least five `code` elements total (not each)
 7. The `.main-section` elements should contain at least five `li` items total (not each)
 8. ✅ You can see a `nav` element with a corresponding `id="navbar"`
-9. The navbar element should contain `header` element which contains text that describes the topic of the technical documentation
+9. ✅ The navbar element should contain `header` element which contains text that describes the topic of the technical documentation
 10. Additionally, the navbar should contain link (`a`) elements with the class of `nav-link`. There should be one for every element with the class `main-section`
 11. The header element in the `#navbar` must come before any link (`a`) elements in the navbar
 12. Each element with the class of `nav-link` should contain text that corresponds to the `header` text within each `section` (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world")
