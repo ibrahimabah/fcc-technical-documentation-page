@@ -5,3 +5,72 @@ html, body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.5;
 }
+
+/* nav element */
+
+#navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(3, 1, 24, 0.4);
+}
+
+#nav_header {
+    color: black;
+    margin: 10px;
+     text-align: center;
+    font-size: 1.8em;
+    font-weight: thin;
+}
+
+#nav_ul {
+    height: 88%;
+    padding: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  .nav_li {
+    color: #898b91;
+    border-top: 3px solid;
+    list-style: none;
+    position: relative;
+    width: 100%;
+  }
+
+  .nav-link {
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .nav-link:hover {
+    background: #020e46;
+    color:#c1c9df;
+  }
+
+  .nav-link:active {
+    background: #354aa8;
+    color:#898b91;
+  }
+
+
+/* main element */
+  #main-doc {
+    position: absolute;
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+  }
+
+  /* section elements*/
+  .main_headers {
+    text-align: left;
+    margin: 0px;
+  }
