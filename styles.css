@@ -42,6 +42,10 @@ html, body {
     width: 100%;
   }
 
+  .nav_li .li_main {
+    color:#354aa8;
+    background: #898b91;
+  }
   .nav-link {
     display: block;
     padding: 10px 30px;
