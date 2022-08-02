@@ -20,7 +20,8 @@ html, body {
 }
 
 #nav_header {
-    color: black;
+    background: #020e46;
+    color: #fff;
     margin: 10px;
      text-align: center;
     font-size: 1.8em;
