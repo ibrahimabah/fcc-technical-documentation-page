@@ -1,7 +1,7 @@
 html, body {
     min-width: 290px;
     color:#e3e6f0;
-    background-color:#495cb1;
+    background-color:#2f4295;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.5;
 }
@@ -11,6 +11,7 @@ html, body {
 #navbar {
     position: fixed;
     min-width: 290px;
+    background: #020e46;
     top: 0;
     left: 0;
     width: 300px;
@@ -43,9 +44,14 @@ html, body {
     width: 100%;
   }
 
-  .nav_li .li_main {
-    color:#354aa8;
-    background: #898b91;
+  .link_main {
+    color:#ccd2e7;
+    background: #061a58;
+  }
+
+  .link_sub {
+    color:#2e43a0;
+    background: #163080;
   }
   .nav-link {
     display: block;
@@ -55,9 +61,13 @@ html, body {
     cursor: pointer;
   }
 
-  .nav-link:hover {
-    background: #020e46;
-    color:#c1c9df;
+  .link_main:hover {
+    color:#2e43a0;
+    background: #072274;
+  }
+  .link_sub:hover {
+    color:#e3e6f0;
+    background-color:#2f4295;
   }
 
   .nav-link:active {
