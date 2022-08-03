@@ -24,7 +24,7 @@ html, body {
     background: #020e46;
     color: #fff;
     margin: 10px;
-     text-align: center;
+    text-align: center;
     font-size: 1.8em;
     font-weight: thin;
 }
@@ -52,6 +52,7 @@ html, body {
   .nav-link.link_sub {
     color:#e3e6f0;
     background: #163080;
+    font-size: 0.5em;
   }
   .nav-link {
     display: block;
