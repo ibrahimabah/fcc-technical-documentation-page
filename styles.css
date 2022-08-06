@@ -244,7 +244,8 @@ margin: 15px 0px 0px 20px
   }
 
 
-  .code { /* code {
+  .code { 
+    /* code {
     margin-left: -20px;
     width: 100%;
     padding: 15px;
@@ -252,7 +253,14 @@ margin: 15px 0px 0px 20px
     padding-right: 45px;
     min-width: 233px;
   }
-}*/
+  */
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 11px;
+    padding-right: 47px;
+    min-width: 235px;
+  }
 }
 
 
