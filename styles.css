@@ -1,4 +1,5 @@
 /* inline comments referencing project example*/
+
 /* html and body section */
 html, body {
   /* body element 
@@ -32,7 +33,7 @@ html,body {
 }
 */
 
-  /* position: ;*/
+  /*position: fixed;*/
   min-width: 300px;
   top: 0px;
   left: 0px;
@@ -173,6 +174,20 @@ margin: 15px 0px 0px 20px
   padding: 17px;
   margin: 11px;
   border-radius: 9px;
+}
+
+@media only screen and (max-width: 815px) {
+  /*For mobile phones 
+  @media only screen and (max-width: 815px) {
+  #navbar ul {
+    border: 1px solid;
+    height: 207px;
+  }*/
+
+  #nav_ul {
+    border: 1px solid;
+    height: 207px;
+  }
 }
 
 
