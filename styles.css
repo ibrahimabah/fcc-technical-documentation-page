@@ -112,7 +112,7 @@ html,body {
 }
 
 /* main element */
-#main_doc {
+#main-doc {
   /* main 
   #main-doc {
   position: absolute;
@@ -176,11 +176,10 @@ margin: 15px 0px 0px 20px
   border-radius: 9px;
 }
 
-/*media For mobile phones
-  @media only screen and (max-width: 815px) { 
-*/
+/* media For mobile phones */
 @media only screen and (max-width: 815px) {
-
+/* @media only screen and (max-width: 815px) */
+  
   #nav_ul {
     /*#navbar ul {
     border: 1px solid;
@@ -229,6 +228,31 @@ margin: 15px 0px 0px 20px
   margin-top: 270px;
   }
 
+}
+
+/* media for other larger screens */
+@media only screen and (max-width: 400px) {
+  /* @media only screen and (max-width: 400px) */
+  
+  
+  #main-doc {
+    /* #main-doc {
+    margin-left: -10px;
+  }
+  */
+  margin-left: -10px;
+  }
+
+
+  .code { /* code {
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 45px;
+    min-width: 233px;
+  }
+}*/
 }
 
 
