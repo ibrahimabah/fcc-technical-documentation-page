@@ -148,8 +148,11 @@ html,body {
   color: #232323;
   font-size: 1em;
 
-  /* section li { margin: 15px 0px 0px 20px;} */
-margin: 15px 0px 0px 20px;
+  /* section li { 
+    margin: 15px 0px 0px 20px;
+  } 
+  */
+  margin: 15px 0px 0px 20px;
 }
 
 
