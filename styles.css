@@ -1,3 +1,4 @@
+/* inline comments referencing project example*/
 /* html and body section */
 html, body {
   /* body element 
@@ -135,6 +136,10 @@ html,body {
   text-align: left;
   margin: 3px;
   font-size: 1.5em;
+}
+
+.paragraphs {
+
 }
 
 
