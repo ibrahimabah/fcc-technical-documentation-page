@@ -25,3 +25,5 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 15. ✅ Your technical documentation should use at least **one** `media query`
 
 **Note:** Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+
+Project Reference | [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)
